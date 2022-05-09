@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![YJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YJack0000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TOP Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YJack0000&layout=compact)]
 <!--
 **YJack0000/YJack0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
