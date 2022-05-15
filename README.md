@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on IOT using Arduino. 
 - 🌱 I’m currently learning some fencing-pos-estimation stuff using mediapipe and yolov5.
+- 📫 I'm able to use Vue or React + Express to craete simple web application. 
 ---
 [![YJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
