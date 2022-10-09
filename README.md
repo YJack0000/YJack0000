@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on combining opencv and arduino to make an game-assistant in [Lary Technology](https://github.com/Lary-Tech). 
-- 🔭 I’m currently working on [CeranaPOS](https://github.com/CeranaPOS) which is a simple, convenient and fast online POS service. 
+- 🔭 I’m currently working on [CeranaPOS](https://github.com/CeranaPOS) which is a simple, convenient and fast online POS service. And all backend are  using Firebase services such as Hosting, Cloud Function, Firestore, Firebase Authentication. 
 - 🌱 I’m currently trying to do fencing-action-recognition by using [mediapipe](https://github.com/google/mediapipe) and [yolo](https://github.com/ultralytics/yolov5). And you can find my research proposal [here](https://github.com/YJack0000/CV-for-master/blob/main/Research%20Proposal.md).
 - 📫 I'm mainly use [Vue](https://github.com/vuejs/vue) + [Vite](https://github.com/vitejs/vite) + [Pinia](https://github.com/vuejs/pinia) + [Element-plus](https://github.com/element-plus/element-plus) to craete simple web application. 
 - ⚡ Fun fact:
