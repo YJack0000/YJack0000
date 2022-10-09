@@ -1,6 +1,6 @@
 ## Hello, geeks! 👋
 
-I am Yu-Jie you can call me YJ. I am Bachelor of National Cheng-Chi University, Taiwan. I have an experienced developer skilled in C++, Full Stack Development, Machine learning, Javascript and its frameworks. 
+I am Yu-Jie you can call me YJ. I am Bachelor of National Cheng-Chi University, Taiwan. I have exposed to a wide range of developer skilled such as C++, Machine learning, Full Stack Development, Javascript and its frameworks. 
 
 #### 🔭 What do I do and What have I done?
 * I’m currently working on combining opencv and arduino to make an game-assistant in [Lary Technology](https://github.com/Lary-Tech). 
