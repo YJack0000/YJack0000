@@ -13,6 +13,7 @@ I am Yu-Jie you can call me YJ. I am Bachelor of National Cheng-Chi University, 
 I would describe myself as innovative, adaptable to change, a fast learner, and someone who is prepared to go above and beyond what is required to ensure my skills always stays one step ahead of my peers.😉😉
 #### ⚡ Fun fact:
   * I'm currently a active fencer who will participate most of the National Ranking Tournament.
+  * I have the same painting as my avatar on my fencing mask. <img src="https://github.com/YJack0000/YJack0000/blob/main/img/310815843_3393936450885057_8057995720039195938_n.png" height="70" />
   * My favorite keyboard brand is Leopold and I'm currently using FC660M as my main production. 
 ---
 [![YJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats)
