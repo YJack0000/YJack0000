@@ -2,6 +2,8 @@
 
 I am Yu-Jie you can call me YJ. I am Bachelor of National Cheng-Chi University, Taiwan. I have exposed to a wide range of developer skilled such as C++, Machine learning, Full Stack Development, Javascript and its frameworks. 
 
+🌱 Currently active in organization [CeranaPOS](https://github.com/CeranaPOS) and [Lary-Tech](https://github.com/Lary-Tech)
+
 #### 🔭 What do I do and What have I done?
 * I’m currently working on combining opencv and arduino to make an game-assistant in [Lary Technology](https://github.com/Lary-Tech). 
 * I’m currently working on [CeranaPOS](https://github.com/CeranaPOS) which is a simple, convenient and fast online POS service. And all backend are  using Firebase services such as Hosting, Cloud Function, Firestore, Firebase Authentication. 
