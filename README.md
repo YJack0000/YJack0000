@@ -7,7 +7,7 @@ I am Yu-Jie you can call me YJ. I am Bachelor of National Cheng-Chi University, 
 * I’m currently working on [CeranaPOS](https://github.com/CeranaPOS) which is a simple, convenient and fast online POS service. And all backend are  using Firebase services such as Hosting, Cloud Function, Firestore, Firebase Authentication. 
 * I’m currently trying to do fencing-action-recognition by using [mediapipe](https://github.com/google/mediapipe) and [yolo](https://github.com/ultralytics/yolov5). And you can find my research proposal [here](https://github.com/YJack0000/fencing_pose_detection/blob/main/Research%20Proposal.md).
 
-#### 📫 I'm mainly use [Vue](https://github.com/vuejs/vue) + [Vite](https://github.com/vitejs/vite) + [Pinia](https://github.com/vuejs/pinia) + [Element-plus](https://github.com/element-plus/element-plus) to craete web application frontend. 
+#### 📫 I'm mainly use [Vue](https://github.com/vuejs/vue) + [Vite](https://github.com/vitejs/vite) + [Pinia](https://github.com/vuejs/pinia) + [Element-plus](https://github.com/element-plus/element-plus) to craete backstage management system. 
 
 #### 💬 One line that describes me best?
 I would describe myself as innovative, adaptable to change, a fast learner, and someone who is prepared to go above and beyond what is required to ensure my skills always stays one step ahead of my peers.😉😉
