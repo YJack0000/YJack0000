@@ -11,7 +11,7 @@ I am Yu-Jie you can call me YJ. I have exposed to a wide range of developer skil
 
 ![](https://skillicons.dev/icons?perline=15&i=vue,nuxt,tailwind,expressjs,mongodb,firebase,vercel,gcp,docker,k8s,arduino)
 ---
-[![YJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats)
-<br></br>
+<!-- [![YJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats)
+<br></br> -->
 
-<!--[![TOP Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![TOP Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats) -->
