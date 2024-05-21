@@ -14,5 +14,5 @@ I am Yu-Jie, but you can call me YJ. I have extensive experience in a variety of
 <br></br>
 -->
 
-[![TOP Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YJack0000)](https://github.com/anuraghazra/github-readme-stats)
+[![TOP Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YJack0000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=YJack0000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
